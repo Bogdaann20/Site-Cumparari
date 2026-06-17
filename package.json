@@ -1,0 +1,8 @@
+{
+  "name": "site-masini",
+  "private": true,
+  "scripts": {
+    "dev:mobile": "py -m http.server 3000 --bind 0.0.0.0",
+    "dev:mobile:3001": "py -m http.server 3001 --bind 0.0.0.0"
+  }
+}
